@@ -37,7 +37,7 @@ data = dict(
 
     sampler=dict(
         train=dict(
-            sample_ratio=[1, 1],
+            sample_ratio=[1, 4],
         )
     ),
 )

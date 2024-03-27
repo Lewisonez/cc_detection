@@ -2,7 +2,7 @@
 
 To facilitate research in semi-supervised learning and cervical abnormal cell detection，we create an largely unlabeled cervical cytology dataset：  
 
-**link：https://pan.baidu.com/s/1wWJY_TdyhtEI1cwQLBAPmA** 
+**link：https://pan.baidu.com/s/1wWJY_TdyhtEI1cwQLBAPm** 
 
 **password：cmk2**
 
